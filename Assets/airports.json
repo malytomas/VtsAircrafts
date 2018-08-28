@@ -1,0 +1,26 @@
+{
+  "airports":
+  [
+    {
+      "name":"Havel",
+      "latitude":50.09133346,
+      "longitude":14.27987036,
+      "altitude":420,
+      "yaw":-158
+    },
+    {
+      "name":"Heathrow",
+      "latitude":51.47750354,
+      "longitude":-0.48055259,
+      "altitude":70
+    },
+    {
+      "name":"John F. Kennedy",
+      "latitude":40.64264734,
+      "longitude":-73.75690895,
+      "altitude":-29.5,
+      "yaw":-165
+    }
+  ]
+}
+
