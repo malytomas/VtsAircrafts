@@ -17,7 +17,7 @@ public class CrashAirplane : MonoBehaviour
 
     void FixedUpdate()
     {
-        if (step++ == 60 * 2)
+        if (step++ == 60 * 5)
             immune = false;
     }
 
